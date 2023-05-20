@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://forescribe.ai"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Good Stuff
+          Quick Test
         </a>
       </header>
     </div>
